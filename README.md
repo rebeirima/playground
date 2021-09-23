@@ -1,4 +1,4 @@
-# Playground Friday
+# Playground Friday 09/22
 
 A place to play with `git`.
 
