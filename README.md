@@ -1,4 +1,4 @@
-Playground
+Playground Friday
 
 Rima Rebei
 Classes: AC207 and CS105
